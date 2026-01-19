@@ -1,0 +1,15 @@
+PLAGIARISM DETECTION ANALYSIS REPORT
+====================================
+
+Reference File: standard.txt
+Target File: input.txt
+
+Similarity Score: 32.94%
+Category: LOW SIMILARITY
+Recommendation: Minor similarities detected. Generally acceptable with proper citations.
+
+Match Statistics:
+  Word-level matches: 12 tokens
+  Phrase-level matches: 0 tokens
+  Sentence-level matches: 16 tokens
+  Total tokens: 85

@@ -1,0 +1,15 @@
+PLAGIARISM DETECTION ANALYSIS REPORT
+====================================
+
+Reference File: standard.txt
+Target File: input2.txt
+
+Similarity Score: 69.66%
+Category: HIGH SIMILARITY
+Recommendation: High similarity detected. Significant revision and proper attribution required.
+
+Match Statistics:
+  Word-level matches: 45 tokens
+  Phrase-level matches: 7 tokens
+  Sentence-level matches: 10 tokens
+  Total tokens: 89
